@@ -1,5 +1,13 @@
 ## Windows Utils
 
+### hagezi-normal-hosts.bat
+
+Replace system hosts with [HaGeZi's Normal DNS Blocklist](https://github.com/hagezi/dns-blocklists)
+
+Requirements：
+
+- Run with administrator privileges.
+
 ### SD.bat
 
 Quickly switch the primary display.
