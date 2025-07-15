@@ -8,7 +8,7 @@ Requirements：
 
 - Run with administrator privileges.
 
-### SD.bat
+### switch-display.bat
 
 Quickly switch the primary display.
 
