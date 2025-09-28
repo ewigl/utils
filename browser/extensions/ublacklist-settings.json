@@ -1,13 +1,15 @@
 {
-  "blacklist": "*://*.csdn.net/*",
+  "blacklist": "*://blog.csdn.net/*",
   "blockColor": "default",
   "blockWholeSite": false,
   "dialogTheme": "default",
   "enableMatchingRules": false,
   "enablePathDepth": false,
   "hideBlockLinks": true,
-  "hideControl": true,
-  "highlightColors": [],
+  "hideControl": false,
+  "highlightColors": [
+    "#ddeeff"
+  ],
   "linkColor": "default",
   "serpInfoSettings": {
     "user": {
@@ -40,6 +42,11 @@
         "enabled": false
       },
       {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/kagi.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
         "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/searxng.yml",
         "custom": false,
         "enabled": false
@@ -63,12 +70,12 @@
   },
   "skipBlockDialog": false,
   "subscriptions": [],
-  "syncAppearance": true,
+  "syncAppearance": false,
   "syncBlocklist": true,
-  "syncGeneral": true,
-  "syncInterval": 120,
+  "syncGeneral": false,
+  "syncInterval": 15,
   "syncSerpInfo": false,
-  "syncSubscriptions": true,
+  "syncSubscriptions": false,
   "updateInterval": 120,
-  "version": "9.0.0"
+  "version": "9.2.0"
 }

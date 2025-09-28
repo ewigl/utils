@@ -10,7 +10,7 @@ Data files for browser extensions.
 
 [sctranslator](https://github.com/chunibyocola/sc-translator-crx)
 
-### ublacklist.json
+### ublacklist.json, uBlacklist.txt
 
 [uBlacklist](https://github.com/iorate/ublacklist)
 

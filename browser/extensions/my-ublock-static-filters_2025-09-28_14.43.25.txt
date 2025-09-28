@@ -1,0 +1,46 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 视频网站
+
+! Bilibili
+! 首页
+! 桌面端下载提示
+www.bilibili.com##.desktop-download-tip
+
+! 下载客户端按钮
+bilibili.com##.download-client-trigger.download-entry
+
+! 开启通知提示
+www.bilibili.com##.request-permission
+! 海报
+www.bilibili.com##.recommended-swipe
+
+! 动态
+! 右侧 新闻、话题
+t.bilibili.com##.right
+! 左侧 个人信息
+! t.bilibili.com##.left
+! 顶部发布框...
+t.bilibili.com##.bili-dyn-publishing
+
+! YouTube
+! 视频结尾推荐视频
+youtube.com##.ytp-ce-element
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 新闻媒体
+
+! IT之家
+! 右下角推广
+ithome.com###down
+ithome.com###side_func
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 邮箱服务
+
+! 163邮箱
+! 页面背景广告、header、footer
+mail.163.com##.main-inner-wrap
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 社交媒体
+
+! Reddit
+! 游戏栏
+reddit.com##faceplate-tracker[noun="games_drawer"]
+reddit.com##faceplate-tracker[noun="games_drawer"] + hr
