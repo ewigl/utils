@@ -1,0 +1,35 @@
+{
+  "version": "2025.1019.1656",
+  "developerMode": true,
+  "showBlockedCount": false,
+  "rulesets": [
+    "+adguard-spyware-url",
+    "+annoyances-others",
+    "+jpn-1"
+  ],
+  "filteringModes": {
+    "none": [],
+    "basic": [],
+    "optimal": [],
+    "complete": [
+      "all-urls"
+    ]
+  },
+  "cosmeticFilters": [
+    "bilibili.com##.desktop-download-tip",
+    "bilibili.com##.download-client-trigger.download-entry",
+    "bilibili.com##.recommended-swipe",
+    "bilibili.com##.request-permission",
+    "ithome.com###down",
+    "ithome.com###side_func",
+    "mail.163.com##.main-inner-wrap",
+    "reddit.com##faceplate-tracker[noun=\"games_drawer\"]",
+    "reddit.com##faceplate-tracker[noun=\"games_drawer\"] + hr",
+    "t.bilibili.com##.right",
+    "t.bilibili.com##main > section:has(> .bili-dyn-publishing)",
+    "xueqiu.com##.editor-container",
+    "youtube.com##.ytp-ce-element",
+    "youtube.com##.ytp-ce-hide-button-container",
+    "youtube.com##ytd-rich-item-renderer:has(.badge-style-type-members-only)"
+  ]
+}

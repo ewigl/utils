@@ -2,15 +2,15 @@
 
 Data files for browser extensions.
 
-### my-ublock-backup.txt
+### my-ubol-settings.json
 
-[uBlock Origin](https://github.com/gorhill/uBlock)
+[uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home)
 
 ### settings.sctranslator
 
 [sctranslator](https://github.com/chunibyocola/sc-translator-crx)
 
-### ublacklist.json, uBlacklist.txt
+### ublacklist.json
 
 [uBlacklist](https://github.com/iorate/ublacklist)
 
