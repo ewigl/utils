@@ -1,9 +1,28 @@
 # Breath of the Wild
 
+> Game version 1.8.2.
+
 ## No Master Mode Triforce
 
-No Master Mode triforce for and only for BOTW version 1.8.2.
+No triforce in Master Mode.
+
+Modified files:
+
+> Visible properties changed.
+
+- /Pack/Bootup.pak/Layout/Common.sblarc/blyt/MainHardMode_00.bflyt
 
 ## Royal Ancient Reins and Saddle
 
-Replace Ancient Reins and Saddle's appearance with Royal's, including stock image. For BOTW version 1.8.2.
+Replace Ancient Reins and Saddle's appearance with Royal's, including stock image.
+
+Modified files:
+
+> Model, physics changed. Mane's visibility changed. Stock image changed.
+>
+> Royal's code: 02.
+
+- /Actor/Pack/GameRomHorseReins_10.sbactorpack
+- /Actor/Pack/GameRomHorseSaddle_10.sbactorpack
+- /UI/StockItem/GameRomHorseReins_10.sbitemico
+- /UI/StockItem/GameRomHorseSaddle_10.sbitemico
