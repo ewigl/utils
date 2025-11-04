@@ -26,3 +26,13 @@ Modified files:
 - /Actor/Pack/GameRomHorseSaddle_10.sbactorpack
 - /UI/StockItem/GameRomHorseReins_10.sbitemico
 - /UI/StockItem/GameRomHorseSaddle_10.sbitemico
+
+## No Horse Speed Up Icon
+
+Remove the horse speed up icon from the HUD.
+
+Modified files:
+
+> Visible properties changed for "Null Panes".
+
+- /Pack/Bootup.pak/Layout/Common.sblarc/blyt/PaHorseSpeedUpIcon_00.bflyt
